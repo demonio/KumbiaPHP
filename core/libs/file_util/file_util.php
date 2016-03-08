@@ -19,7 +19,7 @@
  */
 
 /**
- * Utilidades para el manejo de ficheros y directorios
+ * Utilidades para el manejo de ficheros y directorios TEST
  * @category   Kumbia
  * @package    Core
  */
